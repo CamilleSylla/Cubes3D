@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+canvas {
+    display: block;
+    background: url("../assets/Iconic\ Dev.svg");
+    background-position: 35% 50%;
+    background-repeat: no-repeat;
+    background-size: 50% 30%;
+
+}
